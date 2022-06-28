@@ -13,6 +13,9 @@
 - Storage Account
 - Static website
 
+## Other Azure Technology
+- App Service
+
 ## Screenshot-
 ![New File - Brave 27-06-2022 19_02_00](https://user-images.githubusercontent.com/91140694/175954169-7bcf9f00-f9d7-4b83-b1e6-e23d18e9e50e.png)
 ![New File - Brave 27-06-2022 19_02_10](https://user-images.githubusercontent.com/91140694/175954188-4cdeadec-fbfe-4446-a892-3e3504660b2e.png)
